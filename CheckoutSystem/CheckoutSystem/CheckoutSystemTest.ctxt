@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CheckoutSystemTest
+comment0.text=\r\n\ The\ class\ CheckoutSystemTest\ exemplifies\ the\ usage\ of\ the\ checkout\ system.\r\n\r\n\ @author\ Anonymous\ Intern\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ testCheckoutSystem()
+comment1.text=\r\n\ A\ static\ method\ to\ test\ the\ checkoutSystem\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Receipt
+comment0.text=\r\n\ The\ receipt\ class\ respresents\ the\ printout\ of\ checkout\ details\ on\ a\ piece\ of\ paper.\r\n\ The\ sold\ articles\ are\ collected\ and\ printed\ out\ nicely\ formatted.\ \r\n\r\n\r\n\ @author\ Anonymous\ Intern\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Receipt()
+comment1.text=\r\n\ The\ constructor\ initialized\ the\ receipt\ with\ an\ empty\ item\ list\r\n
+comment2.params=
+comment2.target=void\ printReceipt()
+comment2.text=\r\n\ Print\ of\ company\ name\ and\ all\ sold\ articles.\ The\ length\ of\ item\ description\ will\ be\ analyzed\ \r\n\ to\ print\ the\ price\ at\ the\ same\ position\ (in\ x\ direction).\ The\ sum\ of\ all\ items\ is\ calculated\r\n\ and\ printed.\ \r\n
+numComments=3

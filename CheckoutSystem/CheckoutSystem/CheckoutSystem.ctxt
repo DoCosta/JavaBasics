@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CheckoutSystem
+comment0.text=\r\n\ The\ class\ checkout\ system\ can\ collect\ bought\ items\ on\ a\ receipt,\ print\ the\ current\ receipt.\ Furthermore,\ the\ system\ can\ analyze\ all\ sold\ items\ based\ on\ category.\ \r\n\r\n\ @author\ Anonymous\ Intern\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=CheckoutSystem()
+comment1.text=\r\n\ Constructor\ initializing\ the\ checkout\ system\r\n
+comment2.params=item\ category\ price
+comment2.target=void\ addItemToReceipt(java.lang.String,\ Category,\ double)
+comment2.text=\r\n\ This\ method\ enables\ adding\ a\ new\ entry\ to\ the\ recept\ consisting\ of\ item\ description,\r\n\ category\ and\ price.\ \r\n\ \r\n\ @param\ item\ -\ item\ description\r\n\ @param\ category\ -\ category\ of\ added\ item\r\n\ @param\ price\ -\ price\ of\ item\r\n
+comment3.params=
+comment3.target=void\ printReceipt()
+comment4.params=
+comment4.target=void\ printSellingStatistics()
+numComments=5
